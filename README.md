@@ -15,14 +15,14 @@
   <summary>Table of Contents</summary>
   <ol>
         <li><a href="#introduction">Introduction</a></li>
-        <li><a href="#features">Features</a></li>
+        <li><a href="#">Features</a></li>
         <li><a href="#"></a></li>
         <li><a href="#"></a></li>
   </ol>
 </details>
 
 - # [Introduction](#Introduction)
-Spreadsheets are computer applications used to store, analyze, organize, and manipulate data in the rows and columns of a grid. The program works by inserting data, which can be numbers or text, into the cells of tables. most people think of spreadsheets, they think of data entry and simple calculations. But a modern spreadsheet is more than a financial tool. These apps are a robust way to help collect, organize and analyze important data across different areas of life ,& people use it because they are easy-to-read space.
+The goal of this application is manage you tasks. It should have all the features of main application such as menues, actions and toolbar. The application must store an archive of all the pending and finished tasks.
 <p align="center">
      <img src="images/example1.gif">
    </p>
