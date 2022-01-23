@@ -31,7 +31,7 @@ This application makes you comfortable, you can start each day with peace of min
 
  -Menu Bar.
  
- -Tool bars.
+ -Tool bar.
  
  -Status bar to print the informations.
  
@@ -50,14 +50,60 @@ This application makes you comfortable, you can start each day with peace of min
  ### Functions
 ```c++
 
+class MainWindow : public QMainWindow
+{
+    Q_OBJECT
+
+public:
+    MainWindow(QWidget *parent = nullptr);
+    ~MainWindow();
+    void makeConnexions();
+    void chargerTasks(QString myFile);
+    }
 ```
  ### Private Slots
  ```c++
+private slots:
 
+    void on_actionAdd_Task_triggered();
+
+    void on_actionTask_Done_triggered();
+
+    void on_actionPending_Task_triggered();
+
+    void on_actionClose_triggered();
+
+    void on_actionabout_Qt_triggered();
+
+    void on_actionabout_triggered();
+
+private:
+    Ui::MainWindow *ui;
+    
 ```
 ## AddDiaolg header
   ### Functions
 ```c++
+class addDialog : public QDialog
+{
+
+    Q_OBJECT
+
+public:
+    explicit addDialog(QWidget *parent = nullptr);
+    ~addDialog();
+
+    QString getDescription();
+    QString getTag();
+    QString getFinished();
+    QDate getDueDate();
+    void showEvent(QShowEvent * event);
+
+
+private:
+    Ui::addDialog *ui;
+
+};
 
 ```
 
