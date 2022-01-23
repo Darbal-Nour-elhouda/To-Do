@@ -16,7 +16,7 @@
   <ol>
         <li><a href="#introduction">Introduction</a></li>
         <li><a href="#features">Features</a></li>
-        <li><a href="#To-Do-h">To Do Header</a></li>
+        <li><a href="#To-Do-header">To Do Header</a></li>
         <li><a href="#To-Do-cpp">To Do Cpp</a></li>
         <li><a href="#forms">Forms</a></li>
   </ol>
@@ -67,7 +67,7 @@ This application makes you comfortable, you can start each day with peace of min
   - ## [To Do Cpp](#To-Do-Cpp)
     - ### [ MainWindow Cpp](#MainWindow-Cpp)
     - ### [ AddDiaolg Cpp](#AddDiaolg-Cpp)
-       
+    - ### [ Main Cpp](#Main-Cpp)
         
 # To Do Cpp
  ##   MainWindow Cpp
@@ -80,6 +80,10 @@ This application makes you comfortable, you can start each day with peace of min
  ```c++
 
 ```
+##  Main Cpp
+ ```c++
+
+```
 
 
  - ## [Forms](#forms)
@@ -89,15 +93,21 @@ This application makes you comfortable, you can start each day with peace of min
         
 # Forms
  ##   MainWindow ui
-
-  ```c++ 
-
-
-```
+ 
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+    <img src="images/to do icon.jpg" alt="Logo" width="500" height="400">
+  
+</div>
  ##  AddDiaolg ui
- ```c++
-
-```
+ 
+ <!-- PROJECT LOGO -->
+<br />
+<div align="center">
+    <img src="images/to do icon.jpg" alt="Logo" width="500" height="400">
+  
+</div>
 
 
 
