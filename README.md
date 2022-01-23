@@ -24,9 +24,6 @@
 
 - # [Introduction](#Introduction)
  Everyone has things to do, and we all seem to need help getting them done.To Do Application help you to  manage your tasks and store an archive of all the pending and finished tasks.
-<p align="center">
-     <img src="images/example1.gif">
-   </p>
 
 - # [Features](#Features)
 This application makes you comfortable, you can start each day with peace of mind by clearly visualizing the tasks in progress. also it gives you the opportunity to focus on what matters and save all your ideas to do in the future
