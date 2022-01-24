@@ -109,14 +109,14 @@ private:
 
   - ## [To Do Cpp](#To-Do-Cpp)
     - ### [ MainWindow Cpp](#MainWindow-Cpp)
-        -#### [ Make connexions](#Make-connexions)
-        -#### [ New Task](#New-Task)
-        -#### [ ChargerTasks](#ChargerTasks)
-        -#### [ Tasks done](#Tasks-done)
-        -#### [ Pending Tasks](# Pending-Tasks)
-        -#### [ Close](# Close)
-        -#### [ About Qt](# About Qt)
-        -#### [ About](# About)
+          -#### [ Make connexions](#Make-connexions)
+          -#### [ New Task](#New-Task)
+          -#### [ ChargerTasks](#ChargerTasks)
+          -#### [ Tasks done](#Tasks-done)
+          -#### [ Pending Tasks](# Pending-Tasks)
+          -#### [ Close](# Close)
+          -#### [ About Qt](# About Qt)
+          -#### [ About](# About)
     - ### [ AddDiaolg Cpp](#AddDiaolg-Cpp)
     - ### [ Main Cpp](#Main-Cpp)
         
@@ -325,7 +325,7 @@ int main(int argc, char *argv[])
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <img src="images/Mainwindow ui.png" alt="Logo" width="500" height="400">
+    <img src="image/Mainwindow ui.png" alt="Logo" width="500" height="400">
   
 </div>
 
@@ -334,7 +334,7 @@ int main(int argc, char *argv[])
  <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <img src="images/adddialog ui.png" alt="Logo" width="500" height="400">
+    <img src="image/adddialog ui.png" alt="Logo" width="500" height="400">
   
 </div>
 
