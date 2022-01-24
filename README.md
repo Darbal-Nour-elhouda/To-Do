@@ -4,7 +4,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <img src="images/to do icon.jpg" alt="Logo" width="500" height="400">
+    <img src="images/to_do icon.jpg" alt="Logo" width="500" height="400">
   
 </div>
 
@@ -38,7 +38,7 @@ This application makes you comfortable, you can start each day with peace of min
  
 ## **the application looks like that :**
 <p align="center">
-     <img src="images/logo.png">
+     <img src="images/to do app.png">
    </p>
 
   - ## [To Do Header](#To-Do-Header)
