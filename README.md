@@ -109,14 +109,14 @@ private:
 
   - ## [To Do Cpp](#To-Do-Cpp)
     - ### [ MainWindow Cpp](#MainWindow-Cpp)
-          #### Make connexions
-          ####  New Task 
-          ####  ChargerTasks
-          ####  Tasks done
-          ####  Pending Tasks
-          ####  Close
-          #### About Qt
-          #### About
+          Make connexions
+          New Task 
+          ChargerTasks
+          Tasks done
+          Pending Tasks
+          Close
+          About Qt
+          About
     - ### [ AddDiaolg Cpp](#AddDiaolg-Cpp)
     - ### [ Main Cpp](#Main-Cpp)
         
