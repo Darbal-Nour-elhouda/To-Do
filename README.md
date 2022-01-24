@@ -4,7 +4,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <img src="images/to_do.png" alt="Logo" width="500" height="400">
+    <img src="image/to_do.png" alt="Logo" width="500" height="400">
   
 </div>
 
@@ -38,7 +38,7 @@ This application makes you comfortable, you can start each day with peace of min
  
 ## **the application looks like that :**
 <p align="center">
-     <img src="images/to do app.png">
+     <img src="image/to do app.png">
    </p>
 
   - ## [To Do Header](#To-Do-Header)
@@ -325,7 +325,7 @@ int main(int argc, char *argv[])
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <img src="images/Mainwindow ui.jpg" alt="Logo" width="500" height="400">
+    <img src="images/Mainwindow ui.png" alt="Logo" width="500" height="400">
   
 </div>
 
@@ -334,7 +334,7 @@ int main(int argc, char *argv[])
  <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <img src="images/add dialog ui.jpg" alt="Logo" width="500" height="400">
+    <img src="images/adddialog ui.png" alt="Logo" width="500" height="400">
   
 </div>
 
