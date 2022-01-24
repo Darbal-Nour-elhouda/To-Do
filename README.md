@@ -4,7 +4,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <img src="images/to_do icon.jpg" alt="Logo" width="500" height="400">
+    <img src="images/to_do.png" alt="Logo" width="500" height="400">
   
 </div>
 
